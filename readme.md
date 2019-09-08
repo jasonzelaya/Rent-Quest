@@ -1,5 +1,7 @@
 ﻿# Unit 19 - Project 2
 
+#### Cloned from https://github.com/suvrangshu/Project_2_RentQuest_Final-master
+
 # Rent Quest
 ## Your search ...our analysis..
 
@@ -23,7 +25,7 @@ More than 14000 records.
 
 Went through extensive data cleanup through python
 
-Created structured data 
+Created structured data
 
 Identified locations using geo tags
 
@@ -52,7 +54,7 @@ type http://127.0.0.1:5000/
 
 it will open page :
 
-Please navigate through various options to see our analysis 
+Please navigate through various options to see our analysis
 
 ![](readmeimages/clip2.jpg)
 
