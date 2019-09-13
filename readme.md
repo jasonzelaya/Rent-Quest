@@ -1,6 +1,6 @@
 # Unit 19 - Project 2
 
-#### The Original Repository can be found at: https://github.com/suvrangshu/Project_2_RentQuest_Final-master
+#### The original repository can be found at: https://github.com/suvrangshu/Project_2_RentQuest_Final-master
 
 #### Project Status: --Completed
 
