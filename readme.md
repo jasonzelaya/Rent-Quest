@@ -1,6 +1,19 @@
-﻿# Unit 19 - Project 2
+# Unit 19 - Project 2
 
-#### Cloned from https://github.com/suvrangshu/Project_2_RentQuest_Final-master
+#### The Original Repository can be found at: https://github.com/suvrangshu/Project_2_RentQuest_Final-master
+
+#### Project Status: --Completed
+
+### Technologies
+* MongoDB
+* Leaflet
+* Python
+* Flask
+* JavaScript
+* D3.js
+* Bootstrap 3
+* HTML
+* CSS
 
 # Rent Quest
 ## Your search ...our analysis..
